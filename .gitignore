@@ -15,6 +15,7 @@
 /[Mm]emoryCaptures/
 /app-x86/
 /app-x64/
+/Assets/Dependencies/
 /Assets/MixedRealityToolki*/
 
 # Never ignore Asset meta data
